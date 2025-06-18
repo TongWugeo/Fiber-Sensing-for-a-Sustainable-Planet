@@ -4,7 +4,7 @@ The capability of turning fiber cables into geophysical sensors is revolutionizi
 
 ## Syllabus
 
-## Schedule
+## Resources
 
 | Topic                                   |
 |-----------------------------------------|
